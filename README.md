@@ -1,16 +1,13 @@
-## Hi there 👋
+### just xfragkz57, writing code 👋
 
-<!--
-**xfragkz57/xfragkz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🤔 Thinking about pragmatic development
+- 📝 I keep notes about serverless
+- 🌍 Based in Singapore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xfragkz57&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="xfragkz57 GitHub stats" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfragkz57&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/SQLite-58a6ff?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Node.js-58a6ff?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-58a6ff?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" />
